@@ -25,3 +25,4 @@ public class Laptop {
                 " " + representation + " Цвет: " + color);
     }
 }
+
